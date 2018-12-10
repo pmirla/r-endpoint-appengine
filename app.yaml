@@ -1,0 +1,5 @@
+runtime: custom
+env: flex
+
+env_variables:
+  GCS_AUTH_FILE: auth.json
