@@ -1,4 +1,4 @@
 cron:
 - description: "test cron"
-  url: /demoR
+  url: /predict_petal_length
   schedule: every 1 hours

@@ -1,0 +1,7 @@
+.git
+.cache
+auth.json
+r-endpoint-appengine.Rproj
+schedule.R
+containerit.R
+
